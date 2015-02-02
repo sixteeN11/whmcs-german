@@ -190,7 +190,7 @@ $_LANG['clientareanavhome'] = "Kundencenter Home";
 $_LANG['clientareanavlogout'] = "Abmelden";
 $_LANG['clientareanavorder'] = "Produkte & Dienstleistungen bestellen";
 $_LANG['clientareanavsecurityquestions'] = "Sicherheitsfrage ändern";
-$_LANG['clientareanavservices'] = "Meine Services";
+$_LANG['clientareanavservices'] = "Meine Produkte";
 $_LANG['clientareanavsupporttickets'] = "Supporttickets";
 $_LANG['clientareanocontacts'] = "Keine Kontaktdaten gefunden";
 $_LANG['clientareapassword'] = "Passwort";
@@ -376,7 +376,7 @@ $_LANG['firstpaymentamount'] = "Betrag für die erste Zahlung";
 $_LANG['flashtutorials'] = "Flashtutorials";
 $_LANG['flashtutorialsdescription'] = "Klicken Sie hier um Flashtutorials zum Hosting-Controlpanel anzuzeigen";
 $_LANG['flashtutorialsheadertext'] = "Unsere Flashtutorials sind hier, um Ihnen bei der Nutzung des Hosting-Controlpanels zu helfen. Wählen Sie eines der unten stehenden Schritt-für-Schritt-Tutorials, um die entsprechende Aufgabe zu bewältigen.";
-$_LANG['forwardingtogateway'] = "Bitte warten Sie, sie werden weitergeleitet ...";
+$_LANG['forwardingtogateway'] = "Bitte warten Sie, während sie weitergeleitet werden...";
 $_LANG['globalsystemname'] = "Plambee.de Webhosting";
 $_LANG['globalyouarehere'] = "Sie sind hier";
 $_LANG['go'] = "Los";
@@ -836,13 +836,13 @@ $_LANG['affiliatesconversionrate'] = "Konversionsrate";
 
 $_LANG['configoptionqtyminmax'] = "%s hat eine Mindestanforderung von %s und maximal %s";
 
-$_LANG['creditcardnostore'] = "Machen sie hier einen Haken wenn Sie NICHT wollen, dass wir ihre Kreditkartendetails für wiederkehrende Rechnungen verwenden.";
+$_LANG['creditcardnostore'] = "Machen Sie hier einen Haken wenn Sie NICHT wollen, dass wir ihre Kreditkartendetails für wiederkehrende Rechnungen verwenden.";
 $_LANG['creditcarddelete'] = "Gespeicherte Kreditkartendetails löschen.";
 $_LANG['creditcarddeleteconfirmation'] = "Die gespeicherten Kreditkartendetails wurden nun von ihrem Account gelöscht.";
-$_LANG['creditcardupdatenotpossible'] = "Kreditkartendetails können nicht verändert werden. Bitte versuchen sie es später erneut.";
+$_LANG['creditcardupdatenotpossible'] = "Kreditkartendetails können nicht verändert werden. Bitte versuchen Sie es später erneut.";
 
 $_LANG['invoicepaymentsuccessconfirmation'] = "Vielen Dank. Ihre Bezahlung war erfolgreich!";
-$_LANG['invoicepaymentfailedconfirmation'] = "Unglücklicherweise ist ihr Bezahlungsversuch fehlgeschlagen.<br />Bitte versuchen Sie es erneut oder kontaktieren sie den Support.";
+$_LANG['invoicepaymentfailedconfirmation'] = "Unglücklicherweise ist ihr Bezahlungsversuch fehlgeschlagen.<br />Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.";
 
 # Version 4.2
 
@@ -1157,14 +1157,14 @@ $_LANG['bundlewarningdomainaddon'] = "The selected bundle requires you select th
 
 # New Client Area Template  Lines
 
-$_LANG['navservices'] = "Dienste";
-$_LANG['navservicesorder'] = "Weitere Dienste bestellen";
+$_LANG['navservices'] = "Produkte";
+$_LANG['navservicesorder'] = "Weitere Produkte bestellen";
 $_LANG['navdomains'] = "Domains";
 $_LANG['navrenewdomains'] = "Domain verlängern";
 $_LANG['navregisterdomain'] = "Neue Domain registrieren";
 $_LANG['navtransferdomain'] = "Domain transferieren";
 $_LANG['navwhoislookup'] = "Whois Lookup";
-$_LANG['navbilling'] = "Rechnung";
+$_LANG['navbilling'] = "Finanzen";
 $_LANG['navsupport'] = "Support";
 $_LANG['navtickets'] = "Tickets";
 $_LANG['navopenticket'] = "Support Ticket öffnen";
@@ -1172,7 +1172,7 @@ $_LANG['navmanagecc'] = "Kreditkarte verwalten";
 $_LANG['navemailssent'] = "Korrespondenz";
 
 $_LANG['hello'] = "Hallo";
-$_LANG['account'] = "Account";
+$_LANG['account'] = "Kundenkonto";
 $_LANG['login'] = "Login";
 $_LANG['register'] = "Registrieren";
 $_LANG['forgotpw'] = "Passwort vergessen?";
@@ -1197,21 +1197,21 @@ $_LANG['clientareabacklink'] = "<< Zurück";
 $_LANG['backtoserviceslist'] = "&laquo; Zurück";
 $_LANG['backtodomainslist'] = "&laquo; Zurück";
 
-$_LANG['clientareahomeorder'] = "Besuchen sie das Bestellformular um unsere Dienstleistungen sehen zu können. Bestehende Kunden können hier auch Erweiterungen erwerben.";
+$_LANG['clientareahomeorder'] = "Besuchen Sie das Bestellformular um unsere Dienstleistungen sehen zu können. Bestehende Kunden können hier auch Erweiterungen erwerben.";
 $_LANG['clientareahomelogin'] = "Bereits bei uns registriert? Dann klicken Sie auf die Schaltfläche unten, um in ihr Kundenkonto zu gelangen.";
 $_LANG['clientareahomeorderbtn'] = "Zum Bestellformular gehen";
 $_LANG['clientareahomeloginbtn'] = "Sicherer Kunden Login";
 
 $_LANG['clientareaproductsintro'] = "Übersicht ihrer gebuchten Dienstleistungen.";
-$_LANG['clientareaproductdetailsintro'] = "Hier sehen sie eine Übersicht ihrer gebuchten Service";
+$_LANG['clientareaproductdetailsintro'] = "Hier sehen Sie eine Übersicht ihrer gebuchten Service";
 $_LANG['clientareadomainsintro'] = "Dies sind alle Domains, die Sie in diesem Konto registriert haben.";
-$_LANG['invoicesintro'] = "Hier finden sie eine Rechnungsübersicht.";
-$_LANG['quotesintro'] = "Hier finden sie alle für sie erstellten Angebote.";
+$_LANG['invoicesintro'] = "Hier finden Sie eine Rechnungsübersicht.";
+$_LANG['quotesintro'] = "Hier finden Sie alle für sie erstellten Angebote.";
 $_LANG['emailstagline'] = "Übersicht der letzten an sie gesendeten E-Mails...";
 $_LANG['supportticketsintro'] = "Hier können sie Anfragen senden und diese verfolgen";
 $_LANG['addfundsintro'] = "Geld im Vorraus einzahlen";
 $_LANG['registerintro'] = "Erstellen Sie ein Konto bei uns...";
-$_LANG['masspayintro'] = "Bezahlen sie alle Rechnungen mit einer einzigen Transaktion";
+$_LANG['masspayintro'] = "Bezahlen Sie alle Rechnungen mit einer einzigen Transaktion";
 $_LANG['domaincheckerintro'] = "Hier können Sie prüfen ob ihre Wunschdomain noch verfügbar ist.";
 $_LANG['networkstatusintro'] = "Service-Status und Netzwerk Ankündigungen";
 
@@ -1222,7 +1222,7 @@ $_LANG['ccexpiringsoondesc'] = "Your credit card is expiring soon so please ensu
 $_LANG['availcreditbal'] = "Guthaben verfügbar";
 $_LANG['availcreditbaldesc'] = "Sie haben ein Guthaben in Höhe von %s. Dieses Guthaben wird automatisch mit den nächsten Rechnungen verrechnet.";
 $_LANG['youhaveoverdueinvoices'] = "Sie haben %s überfällige Rechnung(en)";
-$_LANG['overdueinvoicesdesc'] = "Um Service-Unterbrechnungen zu vermeiden zahlen sie ihre ausstehende Rechnung bitte so schnell wie möglich. %sJetzt bezahlen &raquo;%s";
+$_LANG['overdueinvoicesdesc'] = "Um Unterbrechnungen zu vermeiden zahlen Sie Ihre ausstehende Rechnung bitte so schnell wie möglich. %sJetzt bezahlen &raquo;%s";
 $_LANG['supportticketsnoneopen'] = "Es gibt derzeit keine offenen Support-Tickets";
 $_LANG['invoicesnoneunpaid'] = "Es liegen  keine unbezahlten Rechnungen vor";
 
@@ -1253,7 +1253,7 @@ $_LANG['domaincurrentlyunlockedexp'] = "Sie sollten den Transferlock aktivieren,
 $_LANG['searchmultipletlds'] = "Mehrere TLDs suchen";
 
 $_LANG['networkstatustitle'] = "Netzwerk Status";
-$_LANG['networkstatusnone'] = "Momentan gibt es keine %s Netzwerkprobleme";
+$_LANG['networkstatusnone'] = "Momentan gibt es keine offenen Netzwerkprobleme";
 $_LANG['serverstatusheadingtext'] = "Die unten stehende Tabelle zeigt den aktuellen Serverstatus. Sie können diese Seite dazu benutzen um nachzusehen, ob einer der Serverdienste ausgefallen ist.";
 
 $_LANG['clientareacancelreasonrequired'] = "Geben sie bitte einen kurzen Grund an damit wir unseren Service verbessern können.";
@@ -1272,7 +1272,7 @@ $_LANG['domaincheckeravailtransfer'] = "Available for Transfer";
 $_LANG['domaincheckerenterdomain'] = "Beginnen Sie ihre Webhosting Erfahrung mit uns und geben Sie ihren gewünschten Domainnamen ein welchen Sie transferieren, aufschalten oder registrieren möchten. ";
 $_LANG['domaincheckerbulkinvaliddomain'] = "One or more of the domains you entered above was invalid and so has been ommitted from the results";
 
-$_LANG['kbquestionsearchere'] = "Have a question? Start your search here.";
+$_LANG['kbquestionsearchere'] = "Sie haben eine Frage? Starten Sie hier Ihre Suche hier ...";
 $_LANG['contactus'] = "Kontakt";
 
 $_LANG['opennewticket'] = "Neues Ticket öffnen";
@@ -1358,7 +1358,7 @@ $_LANG['licensingreissued'] = "The Valid Domain, IP and Directory will be detect
 $_LANG['domainaddons'] = "Addons";
 $_LANG['domainaddonsinfo'] = "Folgenden Addons sind für Ihre Domain(s) verfügbar...";
 $_LANG['domainaddonsdnsmanagement'] = "DNS Verwaltung";
-$_LANG['domainaddonsidprotectioninfo'] = "Mit dem Identitätsschutz werden alle WHOIS-Informationen maskiert, so können sie ihre privaten Daten schützen und das Spam aufkommen etwas reduzieren.";
+$_LANG['domainaddonsidprotectioninfo'] = "Mit dem Identitätsschutz werden alle WHOIS-Informationen maskiert, so können sie Ihre privaten Daten schützen und das Spam aufkommen etwas reduzieren.";
 $_LANG['domainaddonsdnsmanagementinfo'] = "Hier können sie selbstständig DNS Records für ihre Domain anlegen und ihre Domain so z.B. mit ihrem Webspace verknüpfen.";
 $_LANG['domainaddonsemailforwardinginfo'] = "Get emails forwarded to alternate email addresses of your choice so that you can monitor all from a single account.";
 $_LANG['domainaddonsbuynow'] = "Aktivieren für";
@@ -1479,7 +1479,7 @@ $_LANG['domaincontactdetails']['Address 1'] = "Adresse 1";
 $_LANG['domaincontactdetails']['Address 2'] = "Adresse 2";
 $_LANG['domaincontactdetails']['Address 3'] = "Adresse 3";
 $_LANG['domaincontactdetails']['City'] = "Stadt";
-$_LANG['domaincontactdetails']['State'] = "Staat";
+$_LANG['domaincontactdetails']['State'] = "Bundesland";
 $_LANG['domaincontactdetails']['County'] = "County";
 $_LANG['domaincontactdetails']['Region'] = "Region";
 $_LANG['domaincontactdetails']['Postcode'] = "Postleitzahl";
